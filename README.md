@@ -1,6 +1,7 @@
 # 旧仓库新维护分支
 
 * 变动
+* USERNAME环境变量 安全保护
 * csrf md5 -> sha256
 * session md5 -> sha256
 * upload filename md5 -> sha1

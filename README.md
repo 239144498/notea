@@ -1,4 +1,4 @@
-# DEPRECATED, READ BELOW
+旧仓库新维护分支
 
 * 变动
 * csrf md5 -> sha256
@@ -11,6 +11,10 @@
 * libs/web/state/ui/sidebar.ts
 * components/layout/layout-main.tsx
 * components/sidebar/sidebar-tool.tsx ？？？
+
+---
+
+# DEPRECATED, READ BELOW
 
 To put it simply, this project is barely maintained anymore. I don't have time to work on Notea, and I've personally stopped using it too.
 
